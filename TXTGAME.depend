@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1411194638 source:c:\users\kraw\documents\c++\txtgame\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<dos.h>
+	<unistd.h>
+	<windows.h>
+
